@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 /**
  * main -prints "Programming is like building a multilingual puzzle ,
@@ -7,6 +6,6 @@
  */
 int main(void)
 {
-	puts("\n"programming is like a multilingual puzzle");
+	puts("\"programming is like a multilingual puzzle");
 	return (0);
 }
